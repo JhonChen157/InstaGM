@@ -38,7 +38,7 @@
 ```
 
 ### Screenshots 
-<p align="center"><img src="https://github.com/JhonChen157/InstaGM/blob/main/cgi-bin/images/InstaGM-BruteForce-11-3-2024%20(1).png"/></p>
+<p align="center"><img src="https://github.com/JhonChen157/InstaGM/blob/main/cgi-bin/images/Screenshot_2024-03-12-01-56-27-01_84d3000e3f4017145260f7618db1d683.jpg"/></p>
 
 ### Warning for you
 - Peringatan!! gunakan script ini dengan ```bijak``` atas kesalahan anda admin tidak akan bertanggung jawab, gunakanlah script dengan sewajarnya Thank You.
