@@ -36,6 +36,10 @@
 • git pull
 • python run.py
 ```
+
+### Screenshots 
+<p align="center"><img src="https://github.com/JhonChen157/InstaGM/blob/main/cgi-bin/images/InstaGM-BruteForce-11-3-2024%20(1).png"/></p>
+
 ### Warning for you
 - Peringatan!! gunakan script ini dengan ```bijak``` atas kesalahan anda admin tidak akan bertanggung jawab, gunakanlah script dengan sewajarnya Thank You.
 
@@ -68,3 +72,9 @@ SOFTWARE.
 - Copyright © 2024 Jhon Chen Xu All rights reserved
 - Decode? you are an ```idiot``` | By Jhon Chen Xu
 - Happy Cracking!
+
+<p align="center">
+&nbsp; <a href="https://www.instagram.com/jhon.chen157/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
+&nbsp; <a href="https://wa.me/-" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/whatsapp.png" width="50" /></a>
+&nbsp; <a href="https://www.facebook.com/jhon.chen157" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/facebook.png"  width="50" /></a>
+</p>
