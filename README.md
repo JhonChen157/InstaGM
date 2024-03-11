@@ -1,5 +1,5 @@
 ### InstaGM : Instagram Brute Force
-<p align="center"><img src="Data/Images/Premium.jpg"/></p>
+<p align="center"><img src="https://github.com/JhonChen157/InstaGM/blob/main/cgi-bin/images/InstaGM-BruteForce-11-3-2024%20(1).png"/></p>
 
 <div align="center">
   <p>
