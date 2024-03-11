@@ -28,7 +28,7 @@
 • git clone --depth=1 https://github.com/JhonChen157/InstaGM
 • cd InstaGM
 • python -m pip install --upgrade pip
-• python -m pip install -r requirements.txt
+• python -m pip install -r cgi-bin/modules/requirements.txt
 ```
 ### Run scripts 
 ```
