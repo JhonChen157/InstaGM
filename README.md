@@ -1,4 +1,4 @@
-# Instagram Brute Force Premium - From Indonesian
+### InstaGM : Instagram Brute Force
 <p align="center"><img src="Data/Images/Premium.jpg"/></p>
 
 <div align="center">
@@ -13,4 +13,4 @@
 ##
 
 ### Description
-**[InstaGM](https://github.com/JhonChen157)** was made on *305 March 2024* and then I distributed it to the public in March 2024 with version 3.6 which is available on termux and pydroid3. This script becomes paid in 2024 when someone trades this script without my permission. [InstaGM](https://github.com/JhonChen157) is the mother of all scripts so all the features will be great here. **InstaGM** is a script created using the Python programming language which has a function to **Hack Instagram** accounts randomly with an easy list of passwords. This script is highly recommended for beginners because there are various ways to use this script.
+**[InstaGM](https://github.com/JhonChen157)** adalah sebuah script untuk cracking akun instagram. dengan sistem ```Brute Force``` yang dibuat menggunakan bahasa ***Python***. Apa si ```Brute Force``` itu?, *Brute force adalah teknik serangan terhadap sebuah sistem [keamanan komputer](https://id.m.wikipedia.org/wiki/Keamanan_komputer) yang menggunakan percobaan terhadap semua kunci. Penyerang secara sistematis memeriksa semua kemungkinan kata sandi dan frasa sandi sampai yang benar ditemukan. Kemungkinan lain, penyerang dapat mencoba menebak kunci yang biasanya dibuat dari kata sandi menggunakan fungsi derivasi kunci.*
