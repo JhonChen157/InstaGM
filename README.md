@@ -13,7 +13,7 @@
 ##
 
 ### Description
-**[InstaGM](https://github.com/JhonChen157)** adalah sebuah script untuk cracking akun instagram. dengan sistem ```Brute Force``` yang dibuat menggunakan bahasa ***Python***. Apa si ```Brute Force``` itu?, *Brute force adalah teknik serangan terhadap sebuah sistem [keamanan komputer](https://id.m.wikipedia.org/wiki/Keamanan_komputer) yang menggunakan percobaan terhadap semua kunci. Penyerang secara sistematis memeriksa semua kemungkinan kata sandi dan frasa sandi sampai yang benar ditemukan. Kemungkinan lain, penyerang dapat mencoba menebak kunci yang biasanya dibuat dari kata sandi menggunakan fungsi derivasi kunci.*
+**[InstaGM](https://github.com/JhonChen157)** adalah sebuah script untuk cracking akun instagram. dengan sistem ```Brute Force``` yang dibuat menggunakan bahasa ***Python***. Apa si ```Brute Force``` itu?, ***Brute force adalah teknik serangan terhadap sebuah sistem [keamanan komputer](https://id.m.wikipedia.org/wiki/Keamanan_komputer) yang menggunakan percobaan terhadap semua kunci. Penyerang secara sistematis memeriksa semua kemungkinan kata sandi dan frasa sandi sampai yang benar ditemukan. Kemungkinan lain, penyerang dapat mencoba menebak kunci yang biasanya dibuat dari kata sandi menggunakan fungsi derivasi kunci.***
 
 ### How to install?
 - Jika kamu belum mempunyai aplikasi termux, kamu bisa download melalui link [click disini](https://f-droid.org/repo/com.termux_118.apk), dan kalau sudah di install buka aplikasinya ketik perintah dibawah ini.
@@ -40,6 +40,14 @@
 ### Screenshots 
 <p align="center"><img src="https://github.com/JhonChen157/InstaGM/blob/main/cgi-bin/images/20240312_023555.png"/></p>
 
+### Inside menu
+- ```[1].``` ***Dump username dari followers*** ```ON```
+- ```[2].``` ***Dump username dari following*** ```ON```
+- ```[3].``` ***Dump username dari komentar*** ```ON```
+- ```[4].``` ***Dump username dari likes*** ```ON```
+- ```[5].``` ***Chekpoint detectedtor*** ```ON```
+- ```[6].``` ***Chek Results OK/CP*** ```ON```
+  
 ### Warning for you
 - Peringatan!! gunakan script ini dengan ```bijak``` atas kesalahan anda admin tidak akan bertanggung jawab, gunakanlah script dengan sewajarnya Thank You.
 
