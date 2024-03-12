@@ -51,6 +51,10 @@
 ### Warning for you
 - Peringatan!! gunakan script ini dengan ```bijak``` atas kesalahan anda admin tidak akan bertanggung jawab, gunakanlah script dengan sewajarnya Thank You.
 
+### Encryption By [Cython](https://cython.org/)
+- Apa si itu ***[Cython](https://cython.org/)***
+- Cython adalah [bahasa terkompilasi](https://en.m.wikipedia.org/wiki/Compiled_language) yang biasanya digunakan untuk menghasilkan modul ekstensi [CPython](https://en.m.wikipedia.org/wiki/CPython) . Kode seperti Python yang dianotasi dikompilasi ke C (juga dapat digunakan dari misalnya [C++](https://en.m.wikipedia.org/wiki/C%2B%2B) ) dan kemudian secara otomatis [dibungkus dalam kode antarmuka](https://en.m.wikipedia.org/wiki/Wrapper_library) , menghasilkan modul ekstensi yang dapat dimuat dan digunakan oleh kode Python biasa menggunakan pernyataan import, tetapi dengan overhead komputasi yang jauh lebih sedikit saat [dijalankan waktu](https://en.m.wikipedia.org/wiki/Execution_(computing)#Runtime) . Cython juga memfasilitasi penggabungan kode C atau C++ independen ke dalam modul yang dapat diimpor python.
+
 ### MIT License
 ```
 MIT License
